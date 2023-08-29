@@ -8,3 +8,5 @@
 ![Q3](https://github.com/syedfahadshah-f7/Lab-02/assets/142867460/f61922b9-9c20-4819-bee9-5a5c3bfc94e9)
 # Question 4
 ![Q4](https://github.com/syedfahadshah-f7/Lab-02/assets/142867460/1776130d-a070-4b4d-a140-a1b7022752c8)
+# Question 5
+![Q5](https://github.com/syedfahadshah-f7/Lab-02/assets/142867460/8366f03f-396b-4c41-8502-1144d241cd1e)
